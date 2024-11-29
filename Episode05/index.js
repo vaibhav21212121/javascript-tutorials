@@ -100,3 +100,18 @@ const  ress = calculate(radius,formulaOfArea);
 console.log(ress);
 
 
+
+
+
+//    A R  R O  W   F U N C T I O N S   //
+
+// we use it when we need shorthand code or function //
+
+// const multiply =  (num1,num2) => num1*num2;
+
+const multiply =  (num1,num2) =>{
+    return num1*num2;
+}
+
+
+console.log(multiply(2,3));
